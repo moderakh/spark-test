@@ -4,5 +4,5 @@ spark-test
 environment variables
 ```
 COSMOS_ENDPOINT
-COSMOS_MASTERKEY
+COSMOS_KEY
 ```
